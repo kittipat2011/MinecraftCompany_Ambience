@@ -1,3 +1,7 @@
+-   **1.2.1**
+
+    -   Remove some sounds
+
 -   **1.2.0**
 
     -   Added new sounds
