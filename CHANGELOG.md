@@ -1,3 +1,17 @@
+-   **1.4.0**
+
+    -   Move sound effect to seperate mod [Click](https://thunderstore.io/c/lethal-company/p/l3ackStab/Minecraft_Company_Effect/)
+
+-   **1.3.0**
+
+    -   Added new sounds
+		- BeeZap1.wav
+		- BeeZap2.wav
+		- FallInWater.wav
+		- FlashlightMiniOutOfBatteries.wav
+		- FlashlightOutOfBatteries.wav
+		- Levelup.wav
+
 -   **1.2.1**
 
     -   Remove some sounds

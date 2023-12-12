@@ -1,5 +1,8 @@
+## I decided to move sound effect to separate mod
+[Minecraft Company Effect](https://thunderstore.io/c/lethal-company/p/l3ackStab/Minecraft_Company_Effect/)
+
 ## What Sounds Changed:
-This mod replaces various ambient sounds with Minecraft Cave alternatives.
+This mod replaces various ambient sounds with Minecraft alternatives.
 
 ## Example list of Replaced Sounds:
 - StrangeNoise2.wav
