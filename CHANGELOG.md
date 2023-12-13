@@ -1,3 +1,7 @@
+-   **1.4.1**
+
+    -   Dependencies update
+
 -   **1.4.0**
 
     -   Move sound effect to seperate mod [Click](https://thunderstore.io/c/lethal-company/p/l3ackStab/Minecraft_Company_Effect/)
