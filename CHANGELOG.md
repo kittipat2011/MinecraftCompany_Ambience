@@ -1,3 +1,7 @@
+-   **1.4.2**
+
+    -   Dependencies update
+
 -   **1.4.1**
 
     -   Dependencies update
